@@ -60,5 +60,3 @@ Once installed, launch the **Avigilon Control Center Client** and connect to the
 - Ensure Windows is fully updated before installing.
 - Disable sleep mode or power saving features for workstations used for 24/7 viewing.
 - Audio & mic support is optional and not required for basic use.
-
-For support, reach out to IT Systems at Angstrom Fiber.

@@ -7,7 +7,7 @@ This repository contains the ACC5 Client installer and configuration information
 ## 🚀 Installation Instructions
 
 ### 1. **Download the Client**
-Download the latest release ZIP file from the [Releases](https://github.com/FORSMITHG/ACCS/releases) section:
+Download the latest release ZIP file from the [Releases](https://github.com/FORSMITHG/ACC5/releases/tag/v1.0.0) section:
 
 **File:** `Avigilon.Servers.zip`  
 Unzip the contents to a local directory.
